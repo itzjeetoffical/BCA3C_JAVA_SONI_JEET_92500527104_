@@ -1,7 +1,18 @@
-NAME - SONI JEET
-SUBJECT - JAVA
-ROLL NO. - 92500527104
-FILES FORMAT(U1P1) - U = UNIT , P = PROGRAM, _ABCDEF ARE VERSION OF PROGRAM
-COURSE - BCA
-SEM - 3C
-PROFESSOR - TRITH BHADESHIYA
+# Java Practical Programs
+
+Name: Soni Jeet  
+Roll No: 92500527104  
+Course: BCA - Semester 3C  
+Subject: Java  
+Professor: Trithi Bhadeshiya  
+
+This repository contains all the Java programs that I have done during my BCA Semester 3.
+
+## File Format
+
+The files are named in the format U1P1.
+
+U = Unit  
+P = Program  
+
+If a program has multiple versions, they are marked as A, B, C, D, etc.
