@@ -4,7 +4,7 @@ Name: Soni Jeet
 Roll No: 92500527104  
 Course: BCA - Semester 3C  
 Subject: Java  
-Professor: Trithi Bhadeshiya  
+Professor: Tirth Bhadeshiya  
 
 This repository contains all the Java programs that I have done during my BCA Semester 3.
 
