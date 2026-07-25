@@ -1,6 +1,6 @@
 //write 2nd program//
 import java.util.Scanner;
-class program6k{
+class U1P6_K{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
        int i,j,k;
