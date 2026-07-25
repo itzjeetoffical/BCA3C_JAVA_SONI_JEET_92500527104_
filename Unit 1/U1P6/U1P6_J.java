@@ -1,7 +1,7 @@
 //write a program for etting user input for printing *** in 1st order//
 import java.util.Scanner;
 
-class program6j {
+class U1P6_J{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
