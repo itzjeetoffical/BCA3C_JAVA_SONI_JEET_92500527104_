@@ -13,6 +13,12 @@ This repository contains all the Java programs that I have done during my BCA Se
 The files are named in the format U1P1.
 
 U = Unit  
-P = Program  
+P = Program
+E = Extras
+Ex = Examples
+OL = overloading
+OR = Overriding
+C = constructor
+
 
 If a program has multiple versions, they are marked as A, B, C, D, etc.
